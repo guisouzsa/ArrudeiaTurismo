@@ -2,16 +2,16 @@
 
 ## Sobre o projeto
 
-O Arrudeia Turismo é um projeto desenvolvido como trabalho de empreendedorismo escolar. A proposta foi criar uma empresa fictícia de turismo, simulando um cenário real de mercado, desde a identidade da marca até a criação de um site institucional.
+O Arrudeia Turismo é um projeto desenvolvido como trabalho de empreendedorismo escolar. A proposta foi simular a criação de uma empresa real de turismo, desde a identidade da marca até a construção de um site institucional funcional.
 
-O foco do projeto é divulgar destinos turísticos do Nordeste do Brasil, apresentando informações sobre a empresa, pacotes de viagens e principais atrações da região.
+O projeto tem como foco a divulgação de destinos turísticos do Nordeste do Brasil, apresentando informações sobre a empresa, pacotes de viagens e atrações da região.
 
-O site do projeto pode ser acessado em:
+O site do projeto está publicado em:
 https://guisouzsa.github.io/Arrudeia.Turismo.2024
 
 ## Objetivo
 
-O projeto tem como objetivo aplicar na prática conceitos de empreendedorismo, desenvolvimento web e organização de um produto digital, simulando a criação de uma empresa real.
+Aplicar conceitos de empreendedorismo e desenvolvimento web na prática, simulando uma empresa real do setor de turismo.
 
 ## Tecnologias utilizadas
 
@@ -21,26 +21,22 @@ O projeto tem como objetivo aplicar na prática conceitos de empreendedorismo, d
 
 ## Estrutura do projeto
 
-index.html → página inicial  
-infor.html → página sobre a empresa  
-infviagen.html → página de destinos e viagens  
-pag.css → estilos do site  
-fotos/ → imagens utilizadas no projeto  
+- index.html → página inicial
+- infor.html → página sobre a empresa
+- infviagen.html → página de viagens e destinos
+- pag.css → estilos principais do site
+- scripts.js → scripts básicos
+- fotos/ → imagens utilizadas no projeto
 
 ## Funcionalidades
 
 - Página inicial com apresentação da empresa
 - Seção de pacotes de viagens
-- Página institucional com informações da empresa
-- Página com destinos turísticos do Nordeste
+- Página institucional
+- Lista de destinos turísticos
 - Galeria de imagens
 - Navegação entre páginas
 
-## Publicação
-
-O projeto está publicado via GitHub Pages no link:
-https://guisouzsa.github.io/Arrudeia.Turismo.2024
-
 ## Observação
 
-Este projeto é de caráter educacional e foi desenvolvido como parte de uma atividade escolar de empreendedorismo.
+Este projeto foi desenvolvido com fins educacionais como parte de uma atividade escolar de empreendedorismo.
