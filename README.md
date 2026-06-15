@@ -1,44 +1,46 @@
 # Arrudeia Turismo
 
-Projeto de site institucional para uma agência de turismo fictícia chamada Arrudeia Turismo, focada na divulgação de destinos do Nordeste do Brasil.
-
 ## Sobre o projeto
 
-Este projeto foi desenvolvido com o objetivo de praticar criação de sites utilizando HTML e CSS, simulando um site real de agência de viagens. Ele contém páginas informativas, listagem de destinos e pacotes de viagem, além de uma estrutura de navegação entre páginas.
+O Arrudeia Turismo é um projeto desenvolvido como trabalho de empreendedorismo escolar. A proposta foi criar uma empresa fictícia de turismo, simulando um cenário real de mercado, desde a identidade da marca até a criação de um site institucional.
+
+O foco do projeto é divulgar destinos turísticos do Nordeste do Brasil, apresentando informações sobre a empresa, pacotes de viagens e principais atrações da região.
+
+O site do projeto pode ser acessado em:
+https://guisouzsa.github.io/Arrudeia.Turismo.2024
+
+## Objetivo
+
+O projeto tem como objetivo aplicar na prática conceitos de empreendedorismo, desenvolvimento web e organização de um produto digital, simulando a criação de uma empresa real.
 
 ## Tecnologias utilizadas
 
 - HTML5
 - CSS3
-- JavaScript (básico em algumas páginas)
-- Google Fonts
+- JavaScript básico
 
 ## Estrutura do projeto
 
-/
-├── index.html
-├── infor.html
-├── infviagen.html
-├── pag.css
-├── fotos/
+index.html → página inicial  
+infor.html → página sobre a empresa  
+infviagen.html → página de destinos e viagens  
+pag.css → estilos do site  
+fotos/ → imagens utilizadas no projeto  
 
 ## Funcionalidades
 
 - Página inicial com apresentação da empresa
-- Página institucional com informações sobre a agência
-- Página com destinos turísticos do Nordeste
 - Seção de pacotes de viagens
+- Página institucional com informações da empresa
+- Página com destinos turísticos do Nordeste
 - Galeria de imagens
 - Navegação entre páginas
 
-## Objetivo
+## Publicação
 
-O projeto tem como objetivo treinar habilidades de desenvolvimento front-end, incluindo estruturação de páginas, organização de arquivos e estilização com CSS.
+O projeto está publicado via GitHub Pages no link:
+https://guisouzsa.github.io/Arrudeia.Turismo.2024
 
-## Melhorias futuras
+## Observação
 
-- Organização em pastas (css, js, assets, pages)
-- Responsividade completa para mobile
-- Refatoração do CSS
-- Adição de formulário de contato funcional
-- Publicação no GitHub Pages
+Este projeto é de caráter educacional e foi desenvolvido como parte de uma atividade escolar de empreendedorismo.
