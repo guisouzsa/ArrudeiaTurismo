@@ -9,6 +9,8 @@ O projeto tem como foco a divulgação de destinos turísticos do Nordeste do Br
 O site do projeto está publicado em:
 https://guisouzsa.github.io/Arrudeia.Turismo.2024
 
+Instagram: arrudeiaturismo
+
 ## Objetivo
 
 Aplicar conceitos de empreendedorismo e desenvolvimento web na prática, simulando uma empresa real do setor de turismo.
